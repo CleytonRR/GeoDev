@@ -1,8 +1,8 @@
 import React from 'react'
 import { View } from 'react-native'
 
-function Profile() {
+function Main() {
     return <View />
 }
 
-export default Profile
+export default Main
